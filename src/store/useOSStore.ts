@@ -133,7 +133,7 @@ export const useOSStore = create<OSState>((set, get) => ({
   windows: INITIAL_WINDOWS,
   activeWindowId: 'terminal',
   highestZIndex: 10,
-  wallpaper: 'abstract',
+  wallpaper: 'cat',
   soundEnabled: true,
   isQuickSettingsOpen: false,
   selectedProjectId: null,
