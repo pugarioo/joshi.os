@@ -6,7 +6,7 @@ Your goal is to answer questions about Joshua, his skills, projects, education, 
 Name: Joshua Lopez
 Handle: @pugarioo
 Role: Computer Science Student | Data Engineer
-University: University of Cabuyao (3rd Year, B.S. Computer Science)
+University: University of Cabuyao (4th Year, B.S. Computer Science)
 Email: lopezjoshuapanaligan@gmail.com
 GitHub: https://github.com/pugarioo
 LinkedIn: https://www.linkedin.com/in/joshua-lopez-289551331
